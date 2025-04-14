@@ -1,0 +1,5 @@
+stm32 ile nextion uart3 üzerinden haberleşiyor 
+buadrate 9600 olması lazım yoksa çalışmaz !!!!!!!!!!!!!!!
+
+
+terminal ile stm32 uart2 üzerinden bağlantı kuruluyor baudrate 115200 olmalı 
